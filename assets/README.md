@@ -1,0 +1,1 @@
+Incase you would like to create issues using an AI you should add things into this assets folder

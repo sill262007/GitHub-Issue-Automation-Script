@@ -1,0 +1,4 @@
+title,body,assignees,labels
+"Sample Issue Title","This is a sample issue description.","username","sample-label"
+"Implement Feature X","Description of feature X implementation.","developer1,developer2","feature,backend"
+"Fix Bug Y","Details about the bug and steps to reproduce.","developer3","bug,urgent"
